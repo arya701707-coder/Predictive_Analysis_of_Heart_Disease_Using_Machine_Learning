@@ -53,7 +53,9 @@ This project demonstrates how data-driven approaches can assist in early detecti
 
 
 **Developed by:** Arya Singh
+
 **Project Title:** Predictive Analysis of Heart Disease Using Machine Learning  
+
 **Platform:** IBM Project-Based Learning  
  
  
